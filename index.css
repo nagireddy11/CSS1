@@ -1,0 +1,15 @@
+.first {
+  color: red;
+}
+.text {
+  background-color: yellow;
+}
+.line {
+  text-decoration: line-through;
+}
+.line2 {
+  text-decoration: underline;
+}
+.line3 li {
+  letter-spacing: 3px;
+}
